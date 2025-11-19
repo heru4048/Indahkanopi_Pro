@@ -1,0 +1,1 @@
+export default () => <section><h2>Testimonials</h2></section>;

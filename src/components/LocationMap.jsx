@@ -1,0 +1,1 @@
+export default () => <section><h2>Location Map</h2></section>;
